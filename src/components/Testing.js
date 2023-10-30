@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import chatify from "../../Assets/Projects/chatify.png";
 
-function Testing{
+function Testing(){
     return(
         <Container fluid className="project-section">
         <Particle />
